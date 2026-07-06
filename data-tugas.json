@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "judulTugas": "Membuat Desain UI Website",
+    "anggota": "Raffi",
+    "kategori": "Desain",
+    "deadline": "2026-07-10",
+    "status": "Proses",
+    "prioritas": "Tinggi",
+    "deskripsi": "Membuat tampilan halaman utama menggunakan Bootstrap."
+  },
+  {
+    "id": 2,
+    "judulTugas": "Membuat Halaman Login",
+    "anggota": "Aulia",
+    "kategori": "Frontend",
+    "deadline": "2026-07-12",
+    "status": "Belum Dikerjakan",
+    "prioritas": "Sedang",
+    "deskripsi": "Membuat halaman login dengan validasi JavaScript."
+  },
+  {
+    "id": 3,
+    "judulTugas": "Membuat Database JSON",
+    "anggota": "Fikri",
+    "kategori": "Data",
+    "deadline": "2026-07-08",
+    "status": "Selesai",
+    "prioritas": "Tinggi",
+    "deskripsi": "Menyusun data tugas dalam format JSON."
+  },
+  {
+    "id": 4,
+    "judulTugas": "Implementasi Filter Data",
+    "anggota": "Nanda",
+    "kategori": "JavaScript",
+    "deadline": "2026-07-15",
+    "status": "Proses",
+    "prioritas": "Sedang",
+    "deskripsi": "Membuat fitur filter berdasarkan status dan prioritas."
+  },
+  {
+    "id": 5,
+    "judulTugas": "Membuat Form Tambah Tugas",
+    "anggota": "Dimas",
+    "kategori": "Frontend",
+    "deadline": "2026-07-14",
+    "status": "Belum Dikerjakan",
+    "prioritas": "Rendah",
+    "deskripsi": "Membuat form input data tugas beserta validasinya."
+  },
+  {
+    "id": 6,
+    "judulTugas": "Membuat README GitHub",
+    "anggota": "adhis",
+    "kategori": "Dokumentasi",
+    "deadline": "2026-07-18",
+    "status": "Selesai",
+    "prioritas": "Rendah",
+    "deskripsi": "Menulis dokumentasi proyek dan cara menjalankan aplikasi."
+  },
+  {
+    "id": 7,
+    "judulTugas": "Testing Website",
+    "anggota": "Salsa",
+    "kategori": "Testing",
+    "deadline": "2026-07-16",
+    "status": "Proses",
+    "prioritas": "Tinggi",
+    "deskripsi": "Melakukan pengujian semua fitur website."
+  },
+  {
+    "id": 8,
+    "judulTugas": "Presentasi Proyek",
+    "anggota": "Semua Anggota",
+    "kategori": "Presentasi",
+    "deadline": "2026-07-20",
+    "status": "Belum Dikerjakan",
+    "prioritas": "Sedang",
+    "deskripsi": "Mempersiapkan slide presentasi dan demo website."
+  }
+]
